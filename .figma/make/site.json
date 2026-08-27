@@ -1,0 +1,10 @@
+{
+  "description": "Showcase a doctor's professional background, expertise, and services through a polished portfolio website designed to build trust and attract patients.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
